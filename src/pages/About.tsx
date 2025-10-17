@@ -1,7 +1,7 @@
 import Nav from "@/components/Nav";
 import Footer from "@/components/Footer";
 
-const Index = () => {
+const About = () => {
   return (
     <div className="min-h-screen bg-background flex flex-col">
       <Nav />
@@ -23,4 +23,4 @@ const Index = () => {
   );
 };
 
-export default Index;
+export default About;
